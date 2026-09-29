@@ -1,0 +1,6 @@
+1,Magical ring,golden color,Electronics,A,1,UCP,12/02/2026,LOST,1,null
+2,Charger,White color,Electronics,A,1,UCP,15/06/2026,LOST,3,null
+3,Myself,gay,Electronics,Nazroonse,noidea,spiritual,yesterday,LOST,4,null
+4,myself,gay,Other,sayno,noidea,spiritual,12/02/2026,LOST,4,null
+5,Watch,Black color,Electronics,A,2nd,UCP,19/09/2016,LOST,5,null
+6,Wrist watch,Black Color,Electronics,A,2nd,FOIT Campus,12/12/2000,LOST,1,null
